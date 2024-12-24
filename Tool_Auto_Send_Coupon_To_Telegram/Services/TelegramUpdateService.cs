@@ -16,9 +16,9 @@ namespace Tool_Auto_Send_Coupon_To_Telegram.Services
         static UpdateManager Manager;
         static Config config;
         static User My;
-        static string apiId = "21669082"; // Thay bằng api_id của bạn
-        static string apiHash = "503b4a384f6290729f15012b2761f4d2"; // Thay bằng api_hash của bạn
-        static string phoneNumber = "84565964773"; // Số điện thoại đăng ký
+        static string apiId = ""; // Thay bằng api_id của bạn
+        static string apiHash = ""; // Thay bằng api_hash của bạn
+        static string phoneNumber = ""; // Số điện thoại đăng ký
         static string SourceChannel = "nhommoisanmagiamgiashopeelazada"; // Username của kênh nguồn
         static string DestinationChannel = "chanelmagiamgiavadeal"; // Username của kênh đích
         static string DestinationGroup = "groupmagiamgiavadealsoc"; // Username của kênh đích
